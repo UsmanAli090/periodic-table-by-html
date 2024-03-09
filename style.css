@@ -1,0 +1,17 @@
+.end-table td{
+    padding: 15px;
+}
+.second-last td{
+    padding: 15px;
+}
+.main-table td{
+    text-align: center;
+}
+.hide{
+    empty-cells: hide;
+}
+h1{
+    background-color: red;
+    padding: 20px;
+    font-size: 50px;
+}
